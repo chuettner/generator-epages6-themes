@@ -39,7 +39,7 @@ module.exports = (function () {
         'cartridges-remote': '/srv/epages/eproot/Cartridges',
         'webroot': '/srv/epages/eproot/Shared/WebRoot',
         'perl-exec': '/srv/epages/eproot/Perl/bin/perl',
-        'watch-tasks': [
+        'watch-tasks-theme': [
             'watch-less',
             'watch-css',
             'watch-js',
